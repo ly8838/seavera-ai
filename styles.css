@@ -291,6 +291,13 @@ a {
   font-size: 0.92rem;
 }
 
+.legal-name {
+  margin: 0.35rem 0 0;
+  color: #fff;
+  font-size: 0.95rem;
+  font-weight: 650;
+}
+
 .footer-nav {
   display: flex;
   flex-wrap: wrap;
