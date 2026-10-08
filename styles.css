@@ -298,6 +298,11 @@ a {
   font-weight: 650;
 }
 
+.contact-address {
+  font-style: normal;
+  margin: 0.4rem 0 0;
+}
+
 .legal-contact {
   margin: 0.45rem 0 0;
   color: #9fc0cf;
