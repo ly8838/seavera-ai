@@ -298,6 +298,21 @@ a {
   font-weight: 650;
 }
 
+.legal-contact {
+  margin: 0.45rem 0 0;
+  color: #9fc0cf;
+  font-size: 0.9rem;
+}
+
+.legal-contact a {
+  color: #cfe3ec;
+  transition: color 0.15s ease;
+}
+
+.legal-contact a:hover {
+  color: var(--teal-bright);
+}
+
 .footer-nav {
   display: flex;
   flex-wrap: wrap;
